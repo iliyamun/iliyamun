@@ -1,6 +1,3 @@
-# 💫 About Me:
-I'm a student who is studying IGCSE at SIS. Interested in computer science specifically machine learning and Artificial intelligence. Working on some basic projects right now.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iliyamun) 
